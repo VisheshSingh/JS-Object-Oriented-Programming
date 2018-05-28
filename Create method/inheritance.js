@@ -24,3 +24,5 @@ console.dir(ToyCar.prototype.isPrototypeOf(legoCar));
 console.dir(Car.prototype.isPrototypeOf(legoCar));
 
 console.dir(Object.prototype.isPrototypeOf(legoCar));
+
+// In a nutshell Object.create helps you extend a constructor
